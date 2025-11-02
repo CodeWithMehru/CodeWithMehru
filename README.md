@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithmehru" alt="codewithmehru" /></a> </p>
 
-- 🔭 I’m currently working on [WebSec AI]
+- 🔭 I’m currently working on: [WebSec AI]
 
-- 👯 I’m looking to collaborate on [AI-powered full-stack and cybersecurity projects that align with my vision at WebSec AI]
+- 👯 I’m looking to collaborate on: AI-powered full-stack and cybersecurity projects that align with my vision at WebSec AI
 
-- 🤝 I’m looking for help with [Scaling WebSec AI into a global community that builds intelligent and secure systems for developers and organizations.]
+- 🤝 I’m looking for help with: Scaling WebSec AI into a global community that builds intelligent and secure systems for developers and organizations.
 
-- 👨‍💻 All of my projects are available at [https://codewithmehru.netlify.app](https://codewithmehru.netlify.app)
+- 👨‍💻 All of my projects are available at: [https://codewithmehru.netlify.app](https://codewithmehru.netlify.app)
 
-- 💫 About me **I’m a certified Full-Stack Developer and Cybersecurity Enthusiast with a deep passion for building secure, AI-powered systems. Oracle-certified in Generative AI and professional development, I focus on merging innovation with security to create real-world solutions. Founder of WebSec AI, where we build next-generation AI-powered software with top-notch security and performance. I’m leading projects like WebSec GPT, WebSec Scanner, and WebSec Assistant — platforms designed to push the boundaries of intelligent and secure technology. With experience across frontend, backend, and system security, I aim to make AI development safer, smarter, and more accessible for everyone.**
+- 💫 About me: **I’m a certified Full-Stack Developer and Cybersecurity Enthusiast with a deep passion for building secure, AI-powered systems. Oracle-certified in Generative AI and professional development, I focus on merging innovation with security to create real-world solutions. Founder of WebSec AI, where we build next-generation AI-powered software with top-notch security and performance. I’m leading projects like WebSec GPT, WebSec Scanner, and WebSec Assistant — platforms designed to push the boundaries of intelligent and secure technology. With experience across frontend, backend, and system security, I aim to make AI development safer, smarter, and more accessible for everyone.**
 
-- 📫 How to reach me **mehru.codes@gmail.com**
+- 📫 How to reach me: **mehru.codes@gmail.com**
 
-- ✨ My philosophy **“Money invests itself not in desire, but in the minds that solve real problems.”**
+- ✨ My philosophy: **“Money invests itself not in desire, but in the minds that solve real problems.”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
