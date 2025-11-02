@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithmehru" alt="codewithmehru" /></a> </p>
 
-- 🔭 I’m currently working on [WebSec AI](https://websecai.onrender.com/)
+- 🔭 I’m currently working on [WebSec AI]
 
-- 👯 I’m looking to collaborate on [AI-powered full-stack and cybersecurity projects that align with my vision at WebSec AI](https://websecai.onrender.com/)
+- 👯 I’m looking to collaborate on [AI-powered full-stack and cybersecurity projects that align with my vision at WebSec AI]
 
-- 🤝 I’m looking for help with [Scaling WebSec AI into a global community that builds intelligent and secure systems for developers and organizations.](https://websecai.onrender.com/)
+- 🤝 I’m looking for help with [Scaling WebSec AI into a global community that builds intelligent and secure systems for developers and organizations.]
 
 - 👨‍💻 All of my projects are available at [https://codewithmehru.netlify.app](https://codewithmehru.netlify.app)
 
