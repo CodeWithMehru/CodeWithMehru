@@ -2,11 +2,7 @@
 <br>**Hi 👋, I'm MEHRAAN AMIN**<br><br>**🚀 A passionate Full-Stack Developer | Gen-AI Certified | Cybersecurity Enthusiast from India**<br><br>**🔭 I’m currently working on:** [WebSec AI](https://websecai.onrender.com/)<br>**👯 I’m looking to collaborate on:** AI-powered full-stack and cybersecurity projects that align with my vision at WebSec AI<br>**🤝 I’m looking for help with:** Scaling WebSec AI into a global community that builds intelligent and secure systems for developers and organizations.<br>**👨‍💻 All of my projects are available at:** https://codewithmehru.netlify.app<br>💫 **About me:** Full-Stack Developer | Gen-AI Certified | Cybersecurity Enthusiast | Founder of WebSec AI<br>**📫 How to reach me:** mehru.codes@gmail.com<br>**✨ My philosophy:** “Money invests itself not in desire, but in the minds that solve real problems.”
 
 
-## 🌐 Socials:
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+## 🌐 Socials:  &nbsp; &nbsp;
 <a href="https://codepen.io/https://codepen.io/mehraan-amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mehraan-amin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/code-with-mehru-8267a4330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="code-with-mehru-8267a4330" height="30" width="40" /></a>
 <a href="https://instagram.com/code_with_mehru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_with_mehru" height="30" width="40" /></a>
