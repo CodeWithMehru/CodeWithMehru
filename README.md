@@ -24,8 +24,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=CodeWithMehru&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 &nbsp;  
 &nbsp;
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✍️ My Dev Quote
+![Quote](https://readme-quote-generator.vercel.app/api?quote=Money%20invests%20itself%20not%20in%20desire%2C%20but%20in%20the%20minds%20that%20solve%20real%20problems.%20%E2%80%94%20Mehru&theme=tokyonight)
+
 &nbsp;  
 &nbsp;  
 ### 🔝 Top Contributed Repo
