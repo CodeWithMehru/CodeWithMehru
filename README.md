@@ -75,9 +75,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
   <a href="https://codewithmehru.netlify.app" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="portfolio" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="30" width="30" />
   </a>
 </p>
+
 
 ## 💬 Quote
 > “Money invests itself not in desire, but in the minds that solve real problems”
