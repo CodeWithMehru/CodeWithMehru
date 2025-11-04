@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - **🔭 I’m currently working on:** [WebSec AI](https://websecai.onrender.com/)
