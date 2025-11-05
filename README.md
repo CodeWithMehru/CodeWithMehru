@@ -19,9 +19,8 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=CodeWithMehru">
-    <img src="https://komarev.com/ghpvc/?username=CodeWithMehru&label=Profile%20views&color=00FFFF&style=flat-square" alt="CodeWithMehru's profile views" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithMehru&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="CodeWithMehru's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=CodeWithMehru&theme=radical&hide_border=true&cache_seconds=86400" alt="CodeWithMehru's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CodeWithMehru&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mehraan Amin's GitHub Trophies" />
